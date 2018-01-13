@@ -1,0 +1,11 @@
+
+-Prólogo(1 hoja de texto)
+-Del pensamiento a la acción(hay 4 puntos aqui y cada uno tiene sus textos)
+--Misión y Visión del Colegio de Monterrey.(hay mision y vision)
+--Objetivos Estratégicos.(hay tres pequeños puntos)
+--Nuestro Pensamiento.
+	---3.1. Qué queremos para México.(5 de texto pero con muchos puntos pequeños como una lista)
+	---3.2. Cómo lograrlo.(5 de texto y tambien es una lista de cosas)
+--Estrategias de acción para lograr nuestra Misión, Visión y Objetivos.(claramente es una lista)
+
+Cosas que hacen eventos
